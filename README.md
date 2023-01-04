@@ -37,6 +37,16 @@
 
 ## Json
 - [argonaut](https://github.com/purescript-contrib/purescript-argonaut): A collection of libraries for working with JSON in PureScript.
+- [json-codecs](https://github.com/jordanmartinez/purescript-json-codecs): A bidirectional and unidirectional value-based and runtime-configurable typeclass-based JSON codec library. 
+
+## Web
+
+[web-storage](https://github.com/purescript-web/purescript-web-storage): A low-level library for local storage
+[web-socket](https://github.com/purescript-web/purescript-web-socket): A low-level library for web sockets
+[web-workers](https://github.com/gbagan/purescript-web-workers): A low-level library for web workers
+
+#### Ajax
+- [affjax](https://github.com/purescript-contrib/purescript-affjax): A library taking advantage of aff to enable pain-free asynchronous AJAX requests and response handling.
 
 ## UI
 #### Halogen
@@ -52,3 +62,6 @@
 
 #### CSS
 - [css](https://github.com/purescript-contrib/purescript-css): A type-safe library for describing, manipulating, and rendering CSS
+
+## Testing
+- [spec](https://github.com/purescript-spec/purescript-spec): A testing framework, inspired by hspec.
