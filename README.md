@@ -35,6 +35,9 @@
 ## Routing
 - [routing-duplex](https://github.com/natefaubion/purescript-routing-duplex): Simple bidirectional parser/printers for your routing data types
 
+## Json
+- [argonaut](https://github.com/purescript-contrib/purescript-argonaut): A collection of libraries for working with JSON in PureScript.
+
 ## UI
 #### Halogen
 - [halogen](https://github.com/purescript-halogen/purescript-halogen): A declarative, component-based library entirely written in purescript
