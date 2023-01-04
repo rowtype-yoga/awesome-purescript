@@ -41,9 +41,9 @@
 
 ## Web
 
-[web-storage](https://github.com/purescript-web/purescript-web-storage): A low-level library for local storage
-[web-socket](https://github.com/purescript-web/purescript-web-socket): A low-level library for web sockets
-[web-workers](https://github.com/gbagan/purescript-web-workers): A low-level library for web workers
+- [web-storage](https://github.com/purescript-web/purescript-web-storage): A low-level library for local storage
+- [web-socket](https://github.com/purescript-web/purescript-web-socket): A low-level library for web sockets
+- [web-workers](https://github.com/gbagan/purescript-web-workers): A low-level library for web workers
 
 #### Ajax
 - [affjax](https://github.com/purescript-contrib/purescript-affjax): A library taking advantage of aff to enable pain-free asynchronous AJAX requests and response handling.
