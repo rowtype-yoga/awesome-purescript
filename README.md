@@ -15,6 +15,7 @@
 - [lists](https://github.com/purescript/purescript-lists): linked lists
 - [transformers](https://github.com/purescript/purescript-transformers): monad transnformers ReaderT, StateT, MaybeT, etc (equivalent to mtl in Haskell)
 - [exists](https://github.com/purescript/purescript-exists): encodes existential types.
+- [profunctor-lenses](https://github.com/purescript-contrib/purescript-profunctor-lenses): A mechanism for updating, viewing, and setting values within nested data structures.
 
 ## Data structures
 - [sequences](https://github.com/hdgarrood/purescript-sequences)
