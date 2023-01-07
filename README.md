@@ -47,6 +47,7 @@
 - [web-workers](https://github.com/gbagan/purescript-web-workers): A low-level library for web workers
 
 #### Ajax
+- [fetch](https://github.com/rowtype-yoga/purescript-fetch) High-level library for the WHATWG Fetch Living Standard.
 - [affjax](https://github.com/purescript-contrib/purescript-affjax): A library taking advantage of aff to enable pain-free asynchronous AJAX requests and response handling.
 
 ## UI
