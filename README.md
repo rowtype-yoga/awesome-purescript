@@ -62,7 +62,7 @@
 - [hyrule](https://github.com/mikesol/purescript-hyrule): An event library
 
 #### CSS
-- [css](https://github.com/purescript-contrib/purescript-css): A type-safe library for describing, manipulating, and rendering CSS
+- [tecton](https://github.com/nsaunders/purescript-tecton): Domain-specific language for authoring CSS
 
 ## Testing
 - [spec](https://github.com/purescript-spec/purescript-spec): A testing framework, inspired by hspec.
