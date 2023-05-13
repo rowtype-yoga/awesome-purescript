@@ -64,6 +64,9 @@
 #### CSS
 - [tecton](https://github.com/nsaunders/purescript-tecton): Domain-specific language for authoring CSS
 
+## Server
+- [httpurple](https://github.com/sigma-andex/purescript-httpurple): A functional http server with a focus on type-safety and making the common case easy.
+
 ## Testing
 - [spec](https://github.com/purescript-spec/purescript-spec): A testing framework, inspired by hspec.
 
