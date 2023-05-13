@@ -69,4 +69,4 @@
 - [spec](https://github.com/purescript-spec/purescript-spec): A testing framework, inspired by hspec.
 
 ## Benchmark
- [minibench](https://github.com/purescript/purescript-minibench): A minimal benchmarking library
+- [minibench](https://github.com/purescript/purescript-minibench): A minimal benchmarking library
