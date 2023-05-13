@@ -4,6 +4,7 @@
 - purs: the compiler
 - spago: package manager and build tool
 - esbuild: Javascript bundler used by spago
+- [purescript-backend-optimizer](https://github.com/aristanetworks/purescript-backend-optimizer) a tool to optimize JS genererated code
 
 ## Essential libraries
 - [prelude](https://github.com/purescript/purescript-prelude)
@@ -18,15 +19,14 @@
 - [profunctor-lenses](https://github.com/purescript-contrib/purescript-profunctor-lenses): A mechanism for updating, viewing, and setting values within nested data structures.
 
 ## Data structures
+- [fast-vect](https://github.com/sigma-andex/purescript-fast-vect) Fast, type-safe vector libary for Purescript inspired by Idris. A vector is list with its size encoded in the type.
 - [sequences](https://github.com/hdgarrood/purescript-sequences)
 - [tree-rose](https://github.com/JordanMartinez/purescript-tree-rose): Tree zippers
 
 ## Maths
-- [bigints](https://github.com/purescript-contrib/purescript-bigints): Arbitrary length integers. This is a simple wrapper around biginteger.js
-- [js-bigints](https://github.com/rowtype-yoga/purescript-js-bigints): Alternative to bigints. FFI bindings for JavaScript's BigInt. Does not require external js libraries.
+- [js-bigints](https://github.com/rowtype-yoga/purescript-js-bigints):  FFI bindings for JavaScript's BigInt. Does not require external js libraries.
 - [rationals](https://github.com/purescript-contrib/purescript-rationals): Rational numbers
 - vectors: 2d and 3d vectors
-- fast-vect: Vectors with size encoded in the type
 
 ## Random
 - [random](https://github.com/purescript/purescript-random): A basic library to generate random numbers
