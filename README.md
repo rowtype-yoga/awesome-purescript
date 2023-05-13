@@ -59,8 +59,7 @@
 - [react-basic-hooks](https://github.com/megamaddu/purescript-react-basic-hooks): React hook API for react-basic
 
 #### FRP
-- [deku](https://github.com/mikesol/purescript-deku): A FRP web framework for apps that need to be fast
-- [hyrule](https://github.com/mikesol/purescript-hyrule): An event library
+- [deku](https://github.com/mikesol/purescript-deku): A FRP web framework for apps that need to be fast. Have a nice documentation.
 
 #### CSS
 - [tecton](https://github.com/nsaunders/purescript-tecton): Domain-specific language for authoring CSS
