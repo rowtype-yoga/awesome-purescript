@@ -15,7 +15,6 @@ A collection of awesome Purescript libraries, resources and shiny things.
 - [maybe](https://github.com/purescript/purescript-maybe): optional values
 - [either](https://github.com/purescript/purescript-either): commonly used for error handling
 - [arrays](https://github.com/purescript/purescript-arrays): javascript arrays
-- [lists](https://github.com/purescript/purescript-lists): linked lists
 - [transformers](https://github.com/purescript/purescript-transformers): monad transnformers ReaderT, StateT, MaybeT, etc (equivalent to mtl in Haskell)
 - [exists](https://github.com/purescript/purescript-exists): encodes existential types.
 - [profunctor-lenses](https://github.com/purescript-contrib/purescript-profunctor-lenses): A mechanism for updating, viewing, and setting values within nested data structures.
@@ -23,6 +22,7 @@ A collection of awesome Purescript libraries, resources and shiny things.
 ## Data structures
 - [ordered-collections](https://github.com/purescript/purescript-ordered-collections): Ordered Maps and Sets
 - [unordered-collections](https://github.com/fehrenbach/purescript-unordered-collections): Hash-based immutable Maps and Sets
+- [lists](https://github.com/purescript/purescript-lists): linked lists
 - [fast-vect](https://github.com/sigma-andex/purescript-fast-vect) Fast, type-safe vector libary for Purescript inspired by Idris. A vector is list with its size encoded in the type.
 - [tree-rose](https://github.com/JordanMartinez/purescript-tree-rose): Tree zippers
 
