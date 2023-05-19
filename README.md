@@ -21,8 +21,9 @@ A collection of awesome Purescript libraries, resources and shiny things.
 - [profunctor-lenses](https://github.com/purescript-contrib/purescript-profunctor-lenses): A mechanism for updating, viewing, and setting values within nested data structures.
 
 ## Data structures
+- [ordered-collections](https://github.com/purescript/purescript-ordered-collections): Ordered Maps and Sets
+- [unordered-collections](https://github.com/fehrenbach/purescript-unordered-collections): Hash-based immutable Maps and Sets
 - [fast-vect](https://github.com/sigma-andex/purescript-fast-vect) Fast, type-safe vector libary for Purescript inspired by Idris. A vector is list with its size encoded in the type.
-- [sequences](https://github.com/hdgarrood/purescript-sequences)
 - [tree-rose](https://github.com/JordanMartinez/purescript-tree-rose): Tree zippers
 
 ## Maths
