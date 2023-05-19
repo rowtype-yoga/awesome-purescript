@@ -1,4 +1,6 @@
-# A list of maintained Purescript libraries
+# Awesome Purescript
+
+A collection of awesome Purescript libraries, resources and shiny things.
 
 ## Essential tools
 - purs: the compiler
