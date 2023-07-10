@@ -33,6 +33,7 @@ A collection of awesome Purescript libraries, resources and shiny things.
 - purs - the compiler.
 - spago - package manager and build tool.
 - esbuild - JavaScript bundler used by spago.
+- [purs-tidy](https://github.com/natefaubion/purescript-tidy) - Purescript code formatter.
 - [purescript-backend-optimizer](https://github.com/aristanetworks/purescript-backend-optimizer) - A tool to optimize JS genererated code.
 
 ## Essential libraries
