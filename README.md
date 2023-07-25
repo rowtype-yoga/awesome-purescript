@@ -50,7 +50,7 @@ A collection of awesome Purescript libraries, resources and shiny things.
 - [transformers](https://github.com/purescript/purescript-transformers) - Monad transnformers ReaderT, StateT, MaybeT, etc (equivalent to mtl in Haskell).
 - [exists](https://github.com/purescript/purescript-exists) - Encodes existential types.
 
-## Documentation
+## Documentation, references and tutorials
 - [PureScript: Jordan's Reference](https://jordanmartinez.github.io/purescript-jordans-reference-site/) - A comprehensive reference for the PureScript language and its idioms, ranging from total beginner to advanced topics.
 - [PureScript by Example](https://book.purescript.org/) - A short but dense book from the creator of PureScript (with excercises) 
 - [PureScript Cookbook](https://github.com/JordanMartinez/purescript-cookbook/) - A collection of simple self-contained examples covering common front-end, back-end and CLI tasks in PureScript.
