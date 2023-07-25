@@ -5,6 +5,7 @@ A collection of awesome Purescript libraries, resources and shiny things.
 ## Contents
 - [Essential tools](#essential-tools)
 - [Essential libraries](#essential-libraries)
+- [Documentation, references and tutorials](#documentation-references-and-tutorials)
 - [Data types](#data-types)
 - [Maths](#maths)
 - [Random](#random)
@@ -31,9 +32,11 @@ A collection of awesome Purescript libraries, resources and shiny things.
 - [Organisations](#organisations)
 
 ## Essential tools
-- purs - the compiler.
-- spago - package manager and build tool.
-- esbuild - JavaScript bundler used by spago.
+- [purs](https://github.com/purescript/purescript) - The compiler.
+- [spago](https://github.com/purescript/spago/) - Package manager and build tool.
+- [purescript-language-server](https://github.com/nwolverson/purescript-language-server) - The LSP implementation for PureScript.
+- [Pursuit](https://pursuit.purescript.org/) - The website containing documentation for PureScript packages.
+- [esbuild](https://esbuild.github.io/) - JavaScript bundler used by Spago.
 - [purs-tidy](https://github.com/natefaubion/purescript-tidy) - Purescript code formatter.
 - [purescript-backend-optimizer](https://github.com/aristanetworks/purescript-backend-optimizer) - A tool to optimize JS genererated code.
 
@@ -46,6 +49,11 @@ A collection of awesome Purescript libraries, resources and shiny things.
 - [arrays](https://github.com/purescript/purescript-arrays) - JavaScript arrays.
 - [transformers](https://github.com/purescript/purescript-transformers) - Monad transnformers ReaderT, StateT, MaybeT, etc (equivalent to mtl in Haskell).
 - [exists](https://github.com/purescript/purescript-exists) - Encodes existential types.
+
+## Documentation, references and tutorials
+- [PureScript: Jordan's Reference](https://jordanmartinez.github.io/purescript-jordans-reference-site/) - A comprehensive reference for the PureScript language and its idioms, ranging from total beginner to advanced topics.
+- [PureScript by Example](https://book.purescript.org/) - A short but dense book from the creator of PureScript (with excercises).
+- [PureScript Cookbook](https://github.com/JordanMartinez/purescript-cookbook/) - A collection of simple self-contained examples covering common front-end, back-end and CLI tasks in PureScript.
 
 ## Data types
 - [ordered-collections](https://github.com/purescript/purescript-ordered-collections) - Ordered Maps and Sets.
