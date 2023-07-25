@@ -93,8 +93,6 @@ A collection of awesome Purescript libraries, resources and shiny things.
 - [json-codecs](https://github.com/jordanmartinez/purescript-json-codecs) - A bidirectional and unidirectional value-based and runtime-configurable typeclass-based JSON codec library. 
 
 ## UI
-### Halogen
-- [halogen](https://github.com/purescript-halogen/purescript-halogen) - A declarative, component-based library entirely written in purescript.
 
 ### React
 - [react-basic](https://github.com/purescript-react/purescript-react-basic) - A binding to the React library.
@@ -102,6 +100,12 @@ A collection of awesome Purescript libraries, resources and shiny things.
 - [react-icons](https://github.com/purescript-react/purescript-react-icons) - [react-icons`](https://react-icons.github.io/react-icons/), a gigantic collection of high-quality icons, for Purescript.
 - [nextjs](https://github.com/purescript-react/purescript-nextjs) - Use the #1 react framework in Purescript.
 
+### Halogen
+- [halogen](https://github.com/purescript-halogen/purescript-halogen) - A declarative, component-based library entirely written in purescript.
+
+### Elmish
+- [elmish](https://github.com/collegevine/purescript-elmish) - An ELM inspired framework (TEA) built on react.
+  
 ### Deku
 - [deku](https://github.com/mikesol/purescript-deku) - A FRP web framework for apps that need to be fast. Have a nice documentation.
 
