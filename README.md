@@ -5,7 +5,7 @@ A collection of awesome Purescript libraries, resources and shiny things.
 ## Contents
 - [Essential tools](#essential-tools)
 - [Essential libraries](#essential-libraries)
-- [Documentation, references and tutorials](#documentation)
+- [Documentation, references and tutorials](#documentation-references-and-tutorials)
 - [Data types](#data-types)
 - [Maths](#maths)
 - [Random](#random)
